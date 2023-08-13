@@ -1,0 +1,4 @@
+CREATURE DETAILS
+Creature Name: Ash
+Creature Age: 8
+Creature Owner: Peter

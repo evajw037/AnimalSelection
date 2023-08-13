@@ -1,0 +1,4 @@
+CREATURE DETAILS
+Creature Name: Champ
+Creature Age: 10
+Creature Owner: Lisa

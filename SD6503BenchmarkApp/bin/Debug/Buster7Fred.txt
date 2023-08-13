@@ -1,0 +1,4 @@
+CREATURE DETAILS
+Creature Name: Buster
+Creature Age: 7
+Creature Owner: Fred

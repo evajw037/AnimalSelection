@@ -1,0 +1,4 @@
+CREATURE DETAILS
+Creature Name: Fluffy
+Creature Age: 4
+Creature Owner: Tom

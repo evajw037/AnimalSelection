@@ -1,0 +1,4 @@
+CREATURE DETAILS
+Creature Name: Dozer
+Creature Age: 3
+Creature Owner: Sarah

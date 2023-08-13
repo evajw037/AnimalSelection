@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\bin\Release\Creatures.txt
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\bin\Release\SD6503BenchmarkApp.exe.config
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\bin\Release\SD6503BenchmarkApp.exe
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\bin\Release\SD6503BenchmarkApp.pdb
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.Form1.resources
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.exe
+C:\Users\Administrator\source\repos\SD6503BenchmarkApp\SD6503BenchmarkApp\obj\Release\SD6503BenchmarkApp.pdb

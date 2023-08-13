@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD6503BenchmarkApp", "SD6503BenchmarkApp\SD6503BenchmarkApp.csproj", "{E7288A51-165A-4FBB-A7BA-857894B1FDDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMUnitTests", "BMUnitTests\BMUnitTests.csproj", "{D8320553-3A1A-41F8-B8DC-B692657A6520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7288A51-165A-4FBB-A7BA-857894B1FDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7288A51-165A-4FBB-A7BA-857894B1FDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7288A51-165A-4FBB-A7BA-857894B1FDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7288A51-165A-4FBB-A7BA-857894B1FDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8320553-3A1A-41F8-B8DC-B692657A6520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8320553-3A1A-41F8-B8DC-B692657A6520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8320553-3A1A-41F8-B8DC-B692657A6520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8320553-3A1A-41F8-B8DC-B692657A6520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23A028D-AC6A-4B7C-9272-C012679B4448}
+	EndGlobalSection
+EndGlobal

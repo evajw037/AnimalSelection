@@ -1,0 +1,4 @@
+CREATURE DETAILS
+Creature Name: Sausage
+Creature Age: 9
+Creature Owner: John
